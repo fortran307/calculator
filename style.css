@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.wrapper__btn{
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid black; */
+    width: 250px;
+}
+
+button{
+    margin: 5px;
+    width: 50px;
+    height: 30px;
+    background: whitesmoke;
+
+}
+.result{
+    width: 94%;
+    height: 50px;
+}
+
+.btn-opiton{
+    background: rgb(255, 209, 57)
+}
+
+.btn-opiton--big{
+    width: 92%;
+}
